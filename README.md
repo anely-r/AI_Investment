@@ -31,8 +31,7 @@ The project uses aggregated and comparative data derived from several authoritat
 | **AI Patents** | **World Intellectual Property Organization (WIPO)** | Number of AI patents registered by country over the years, key for the innovation gap analysis. |
 | **R&D Expenditure** | **The World Bank** and **OECD Reports** | R&D spending as a percentage of GDP, used to measure investment efficiency. |
 | **GDP per Capita** | **International Monetary Fund (IMF)** and **The World Bank** | GDP per capita by country, used to standardize economic wealth comparisons. |
-| **Smart City Governance** | **IMD World Competitiveness Center** and **SUTD** | Governance scores and citizen perception, providing context on digital government quality. |
-| **Digital Infrastructure** | **Ookla Speedtest Global Index** and official city reports. | Average internet speed and public Wi-Fi access points, used for infrastructure comparison. |
+
 
 ## 💻 How to Run the Project
 
